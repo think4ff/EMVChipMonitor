@@ -1,0 +1,28 @@
+[2016-03-17 16:16:25] Find Error [80000384]
+
+E:\workspace_java\EMVChipMonitor>rem cd c:\tmp 
+
+E:\workspace_java\EMVChipMonitor>rem type EMVchipMonitor.property > newProperty.txt 
+
+E:\workspace_java\EMVChipMonitor>type ./bin/EMVchipMonitor.property  1>./bin/newProperty.txt 
+##__Executing time [1]
+[2016-03-17 16:18:05] Find Error [80000384]
+[2016-03-17 16:18:05] Find Error [80000384]
+
+E:\workspace_java\EMVChipMonitor>rem cd c:\tmp 
+
+E:\workspace_java\EMVChipMonitor>rem type EMVchipMonitor.property > newProperty.txt 
+
+E:\workspace_java\EMVChipMonitor>type ./bin/EMVchipMonitor.property  1>./bin/newProperty.txt 
+##__Executing time [1]
+[2016-03-17 16:20:01] Find Error [80000384]
+[2016-03-17 16:20:01] Find Error [80000384]
+[2016-03-17 16:20:01] Find Error [80000384]
+[2016-03-17 16:20:01] Find Error [80000384]
+
+E:\workspace_java\EMVChipMonitor>rem cd c:\tmp 
+
+E:\workspace_java\EMVChipMonitor>rem type EMVchipMonitor.property > newProperty.txt 
+
+E:\workspace_java\EMVChipMonitor>type .\bin\EMVchipMonitor.property  1>.\bin\newProperty.txt 
+##__Executing time [0]
