@@ -1,0 +1,7 @@
+LOG_FOLDER=./log/
+LOG_FILE=apaccitikrap221.log
+SLEEP_MIN=5
+ERR_STRING=80000384
+ERR_TR_CMD=./bin/emvChipErrExec.bat
+MONITOR_LOG=emvChipMonitorLog
+LINE_COUNT_F=emvChipLineCount
